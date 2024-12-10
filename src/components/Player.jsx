@@ -1,4 +1,3 @@
-import { use } from "react";
 import { useState } from "react";
 
 export default function Player({initalName, symbol}){
